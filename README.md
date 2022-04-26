@@ -14,7 +14,7 @@
   - Python
   - Linux
   - Kubernetes
-  - 
+  - AWS / AZURE / GCP
 ### Nível Básico:
 
 Dados: https://mobileapps.saude.gov.br/esusvepi/files/unAFkcaNDeXajurGB7LChj8SgQYS2ptm/04bd3419b22b9cc5c6efac2c6528100d_HIST_PAINEL_COVIDBR_06jul2021.rar
