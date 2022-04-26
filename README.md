@@ -77,4 +77,11 @@ https://www.elastic.co/guide/en/elasticsearch/hadoop/current/install.html
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-jonataslimac-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonataslimac/)](https://www.linkedin.com/in/jonataslimac/) 
+<div style="position: relative; width: 100%; height: 0; padding-top: 141.4286%;
+ padding-bottom: 48px; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  
+  ### Curriculo Atualizado:
+
+  https://www.canva.com/design/DAEUcUt1sfc/view
 
